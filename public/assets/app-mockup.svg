@@ -1,0 +1,54 @@
+<svg width="300" height="600" viewBox="0 0 300 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone Frame -->
+  <rect width="300" height="600" rx="40" fill="#111111"/>
+  <rect x="10" y="10" width="280" height="580" rx="30" fill="#000000"/>
+  
+  <!-- Status Bar -->
+  <rect x="15" y="15" width="270" height="30" rx="10" fill="#111111"/>
+  <text x="150" y="35" font-family="Arial" font-size="16" fill="white" text-anchor="middle">10:01</text>
+  
+  <!-- App Header -->
+  <text x="30" y="70" font-family="Arial" font-size="24" font-weight="bold" fill="#FF36A2">SideQuest</text>
+  <circle cx="270" y="70" r="20" fill="#6C00FF"/>
+  <text x="270" y="77" font-family="Arial" font-size="20" fill="white" text-anchor="middle">J</text>
+  
+  <!-- Festival Card -->
+  <rect x="20" y="90" width="260" height="150" rx="15" fill="#2C0055"/>
+  <text x="40" y="120" font-family="Arial" font-size="14" fill="#FFDE03" font-weight="bold">FEATURED</text>
+  <text x="40" y="150" font-family="Arial" font-size="24" fill="white" font-weight="bold">EDC Las Vegas 2024</text>
+  <text x="40" y="180" font-family="Arial" font-size="16" fill="#BBBBBB">May 16 - May 18</text>
+  <text x="40" y="210" font-family="Arial" font-size="14" fill="#BBBBBB">Las Vegas Motor Speedway, Las Vegas, USA</text>
+  
+  <!-- Button -->
+  <rect x="40" y="220" width="120" height="40" rx="20" fill="#FF36A2"/>
+  <text x="100" y="245" font-family="Arial" font-size="16" fill="white" text-anchor="middle">View Details</text>
+  
+  <!-- Action Buttons -->
+  <rect x="20" y="260" width="120" height="40" rx="20" fill="#6C00FF"/>
+  <text x="80" y="285" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Create Schedule</text>
+  
+  <rect x="150" y="260" width="130" height="40" rx="20" fill="#00B5D8"/>
+  <text x="215" y="285" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Find Friends</text>
+  
+  <!-- My Festivals Section -->
+  <text x="20" y="330" font-family="Arial" font-size="22" fill="#FF36A2" font-weight="bold">My Festivals</text>
+  <text x="150" y="360" font-family="Arial" font-size="16" fill="white" text-anchor="middle">No festivals found. Add your first festival!</text>
+  
+  <!-- Upcoming Festivals Section -->
+  <text x="20" y="410" font-family="Arial" font-size="22" fill="#00B5D8" font-weight="bold">Upcoming Festivals</text>
+  
+  <!-- Festival List -->
+  <rect x="20" y="430" width="260" height="70" rx="10" fill="#222222"/>
+  <text x="120" y="460" font-family="Arial" font-size="18" fill="white" font-weight="bold">EDC Las Vegas 2024</text>
+  <text x="120" y="480" font-family="Arial" font-size="14" fill="#BBBBBB">May 16 - May 18</text>
+  
+  <rect x="20" y="510" width="260" height="70" rx="10" fill="#222222"/>
+  <text x="120" y="540" font-family="Arial" font-size="18" fill="white" font-weight="bold">Tomorrowland 2025</text>
+  <text x="120" y="560" font-family="Arial" font-size="14" fill="#BBBBBB">Jul 17 - Jul 26</text>
+  
+  <!-- Bottom Navigation -->
+  <rect x="0" y="560" width="300" height="40" fill="#111111"/>
+  <text x="50" y="585" font-family="Arial" font-size="14" fill="#6C00FF" text-anchor="middle">Home</text>
+  <text x="150" y="585" font-family="Arial" font-size="14" fill="#555555" text-anchor="middle">Schedule</text>
+  <text x="250" y="585" font-family="Arial" font-size="14" fill="#555555" text-anchor="middle">Profile</text>
+</svg> 
