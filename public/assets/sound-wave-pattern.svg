@@ -1,0 +1,53 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sound waves -->
+  <g opacity="0.5">
+    <!-- Wave Group 1 -->
+    <path d="M50 250 Q75 200, 100 250 Q125 300, 150 250 Q175 200, 200 250 Q225 300, 250 250 Q275 200, 300 250 Q325 300, 350 250 Q375 200, 400 250 Q425 300, 450 250" fill="none" stroke="#1DB954" stroke-width="1" />
+    
+    <!-- Wave Group 2 -->
+    <path d="M50 250 Q75 180, 100 250 Q125 320, 150 250 Q175 180, 200 250 Q225 320, 250 250 Q275 180, 300 250 Q325 320, 350 250 Q375 180, 400 250 Q425 320, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, 20)" />
+    
+    <!-- Wave Group 3 -->
+    <path d="M50 250 Q75 160, 100 250 Q125 340, 150 250 Q175 160, 200 250 Q225 340, 250 250 Q275 160, 300 250 Q325 340, 350 250 Q375 160, 400 250 Q425 340, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, 40)" />
+    
+    <!-- Wave Group 4 -->
+    <path d="M50 250 Q75 140, 100 250 Q125 360, 150 250 Q175 140, 200 250 Q225 360, 250 250 Q275 140, 300 250 Q325 360, 350 250 Q375 140, 400 250 Q425 360, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, 60)" />
+    
+    <!-- Wave Group 5 -->
+    <path d="M50 250 Q75 120, 100 250 Q125 380, 150 250 Q175 120, 200 250 Q225 380, 250 250 Q275 120, 300 250 Q325 380, 350 250 Q375 120, 400 250 Q425 380, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, 80)" />
+    
+    <!-- Wave Group 6 -->
+    <path d="M50 250 Q75 200, 100 250 Q125 300, 150 250 Q175 200, 200 250 Q225 300, 250 250 Q275 200, 300 250 Q325 300, 350 250 Q375 200, 400 250 Q425 300, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, -20)" />
+    
+    <!-- Wave Group 7 -->
+    <path d="M50 250 Q75 180, 100 250 Q125 320, 150 250 Q175 180, 200 250 Q225 320, 250 250 Q275 180, 300 250 Q325 320, 350 250 Q375 180, 400 250 Q425 320, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, -40)" />
+    
+    <!-- Wave Group 8 -->
+    <path d="M50 250 Q75 160, 100 250 Q125 340, 150 250 Q175 160, 200 250 Q225 340, 250 250 Q275 160, 300 250 Q325 340, 350 250 Q375 160, 400 250 Q425 340, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, -60)" />
+    
+    <!-- Wave Group 9 -->
+    <path d="M50 250 Q75 140, 100 250 Q125 360, 150 250 Q175 140, 200 250 Q225 360, 250 250 Q275 140, 300 250 Q325 360, 350 250 Q375 140, 400 250 Q425 360, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, -80)" />
+    
+    <!-- Wave Group 10 -->
+    <path d="M50 250 Q75 120, 100 250 Q125 380, 150 250 Q175 120, 200 250 Q225 380, 250 250 Q275 120, 300 250 Q325 380, 350 250 Q375 120, 400 250 Q425 380, 450 250" fill="none" stroke="#1DB954" stroke-width="1" transform="translate(0, -100)" />
+  </g>
+  
+  <!-- Circular equalizer elements -->
+  <g opacity="0.3">
+    <circle cx="120" cy="120" r="10" fill="#1DB954" />
+    <circle cx="160" cy="140" r="8" fill="#1DB954" />
+    <circle cx="200" cy="100" r="12" fill="#1DB954" />
+    <circle cx="240" cy="130" r="6" fill="#1DB954" />
+    <circle cx="280" cy="110" r="9" fill="#1DB954" />
+    <circle cx="320" cy="150" r="7" fill="#1DB954" />
+    <circle cx="360" cy="120" r="11" fill="#1DB954" />
+    
+    <circle cx="120" cy="380" r="11" fill="#1DB954" />
+    <circle cx="160" cy="350" r="9" fill="#1DB954" />
+    <circle cx="200" cy="390" r="7" fill="#1DB954" />
+    <circle cx="240" cy="370" r="10" fill="#1DB954" />
+    <circle cx="280" cy="400" r="8" fill="#1DB954" />
+    <circle cx="320" cy="360" r="12" fill="#1DB954" />
+    <circle cx="360" cy="380" r="6" fill="#1DB954" />
+  </g>
+</svg> 
